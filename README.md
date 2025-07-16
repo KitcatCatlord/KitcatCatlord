@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitcatCatlord
 - 👀 I’m primarily a musician, but I also love cats and programming
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him (straight)
 - ⚡ Fun fact: Cats can rotate their ears 180 degrees
 
 <!---
