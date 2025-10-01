@@ -16,7 +16,7 @@ My languages are:
 Good to know:
 - I use AI tools like Copilot or Codex to annotate and document code
 - I am not a vibe coder! Most of my program content is written by me
-- I also use AT to generate commit messages because keeping track of everything whilst using imperative is (usually) a waste of time
+- I also use AI to generate commit messages because keeping track of everything whilst using imperative is (usually) a waste of time
 
 # About my repos
 
